@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Used XCode for the first time. Setting up the environment was a bit difficult. The video walkthrough helped a lot. Looking forward to learning more in the course.
 
 ## License
 
